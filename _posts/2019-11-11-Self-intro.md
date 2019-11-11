@@ -1,5 +1,6 @@
 ---
-self intro
+layout :post
+title : self intro
 ---
 
 # self intro
